@@ -69,6 +69,14 @@ Deploy software to customer infrastructure without providing a readable copy of 
 * End access for one customer without affecting others
 * End software access automatically when a contract ends
 
+## Product links
+
+| Product | Marketing page | Console |
+|---|---|---|
+| Document protection | [nakodax.com/documents](https://nakodax.com/documents) | [box.nakodax.com](https://box.nakodax.com/) |
+| Data protection | [nakodax.com/data](https://nakodax.com/data) | [data.nakodax.com](https://data.nakodax.com/) |
+| IP (source) protection | [nakodax.com/source](https://nakodax.com/source) | [app.nakodax.com](https://app.nakodax.com/) |
+
 ## How it works
 
 1. **Encrypt at the source.** Content is encrypted on your device before it leaves.
