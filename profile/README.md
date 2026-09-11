@@ -7,7 +7,9 @@ NakodaX helps you keep control of sensitive work after you share it.
 Documents, datasets, media, email attachments, and source code remain encrypted. Every time someone opens protected content, NakodaX checks whether they still have permission. You can change, limit, or revoke access at any time, including after content has been shared, downloaded, or forwarded.
 
 🔗 **Website:** [https://nakodax.com](https://nakodax.com)  
-🔐 **Product:** [box.nakodax.com](https://box.nakodax.com)  
+📄 **Documents:** [box.nakodax.com](https://box.nakodax.com)  
+📊 **Data:** [data.nakodax.com](https://data.nakodax.com)  
+💻 **Source:** [app.nakodax.com](https://app.nakodax.com)  
 💼 **LinkedIn:** [linkedin.com/company/nakodax](https://www.linkedin.com/company/nakodax)
 
 ## What we build
@@ -71,7 +73,7 @@ Deploy software to customer infrastructure without providing a readable copy of 
 
 ## Product links
 
-| Product | Marketing page | Console |
+| Product | Page | Console |
 |---|---|---|
 | Document protection | [nakodax.com/documents](https://nakodax.com/documents) | [box.nakodax.com](https://box.nakodax.com/) |
 | Data protection | [nakodax.com/data](https://nakodax.com/data) | [data.nakodax.com](https://data.nakodax.com/) |
@@ -95,6 +97,8 @@ Deploy software to customer infrastructure without providing a readable copy of 
 ## Links
 
 🌐 [nakodax.com](https://nakodax.com)  
-🔐 [box.nakodax.com](https://box.nakodax.com)  
+📄 [box.nakodax.com](https://box.nakodax.com)  
+📊 [data.nakodax.com](https://data.nakodax.com)  
+💻 [app.nakodax.com](https://app.nakodax.com)  
 💼 [LinkedIn](https://www.linkedin.com/company/nakodax)  
 ✉️ [Support](https://nakodax.com/support)
