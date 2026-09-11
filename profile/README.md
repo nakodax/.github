@@ -7,9 +7,9 @@ NakodaX helps you keep control of sensitive work after you share it.
 Documents, datasets, media, email attachments, and source code remain encrypted. Every time someone opens protected content, NakodaX checks whether they still have permission. You can change, limit, or revoke access at any time, including after content has been shared, downloaded, or forwarded.
 
 🔗 **Website:** [https://nakodax.com](https://nakodax.com)  
-📄 **Documents:** [box.nakodax.com](https://box.nakodax.com)  
-📊 **Data:** [data.nakodax.com](https://data.nakodax.com)  
-💻 **Source:** [app.nakodax.com](https://app.nakodax.com)  
+📄 **Document Protection Platform:** [box.nakodax.com](https://box.nakodax.com)  
+💻 **Source Protection Platform:** [app.nakodax.com](https://app.nakodax.com)  
+📊 **Data Protection Platform:** [data.nakodax.com](https://data.nakodax.com)  
 💼 **LinkedIn:** [linkedin.com/company/nakodax](https://www.linkedin.com/company/nakodax)
 
 ## What we build
@@ -75,9 +75,9 @@ Deploy software to customer infrastructure without providing a readable copy of 
 
 | Product | Page | Console |
 |---|---|---|
-| Document protection | [nakodax.com/documents](https://nakodax.com/documents) | [box.nakodax.com](https://box.nakodax.com/) |
-| Data protection | [nakodax.com/data](https://nakodax.com/data) | [data.nakodax.com](https://data.nakodax.com/) |
-| IP (source) protection | [nakodax.com/source](https://nakodax.com/source) | [app.nakodax.com](https://app.nakodax.com/) |
+| Document Protection Platform | [nakodax.com/documents](https://nakodax.com/documents) | [box.nakodax.com](https://box.nakodax.com/) |
+| Source Protection Platform | [nakodax.com/source](https://nakodax.com/source) | [app.nakodax.com](https://app.nakodax.com/) |
+| Data Protection Platform | [nakodax.com/data](https://nakodax.com/data) | [data.nakodax.com](https://data.nakodax.com/) |
 
 ## How it works
 
@@ -97,8 +97,8 @@ Deploy software to customer infrastructure without providing a readable copy of 
 ## Links
 
 🌐 [nakodax.com](https://nakodax.com)  
-📄 [box.nakodax.com](https://box.nakodax.com)  
-📊 [data.nakodax.com](https://data.nakodax.com)  
-💻 [app.nakodax.com](https://app.nakodax.com)  
+📄 Document Protection Platform: [box.nakodax.com](https://box.nakodax.com)  
+💻 Source Protection Platform: [app.nakodax.com](https://app.nakodax.com)  
+📊 Data Protection Platform: [data.nakodax.com](https://data.nakodax.com)  
 💼 [LinkedIn](https://www.linkedin.com/company/nakodax)  
 ✉️ [Support](https://nakodax.com/support)
