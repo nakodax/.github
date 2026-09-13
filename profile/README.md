@@ -8,6 +8,9 @@ It protects documents, data pipelines, media, email attachments, and software wi
 
 🔗 **Website:** [nakodax.com](https://nakodax.com)  
 💼 **LinkedIn:** [linkedin.com/company/nakodax](https://www.linkedin.com/company/nakodax)  
+🐦 **X:** [x.com/nakodax](https://x.com/nakodax)  
+📘 **Facebook:** [facebook.com/NakodaX](https://www.facebook.com/profile.php?id=61593930167917)  
+📸 **Instagram:** [instagram.com/nakodaxtech](https://www.instagram.com/nakodaxtech)  
 ✉️ **Support:** [nakodax.com/support](https://nakodax.com/support)
 
 ## What we build
