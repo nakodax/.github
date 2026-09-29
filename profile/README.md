@@ -112,7 +112,7 @@ NakodaX lets software run on customer infrastructure while your proprietary logi
 
 | Tool | What it does | Install |
 |---|---|---|
-| [nkx](https://github.com/nakodax/nkx-cli) | Command-line tool for NakodaX Source Protection: unlock protected code in CI and in deployments | `brew install nakodax/tap/nkx` |
+| [nkx](https://github.com/nakodax/nkx-cli) | Command-line tool for NakodaX Source Protection: decrypt and re-encrypt files in CI builds, and unlock protected code for approved change sessions | `brew install nakodax/tap/nkx` |
 | [nkx-upload](https://github.com/nakodax/nkx-upload) | Encrypt and upload video and audio recordings up to 5 GB to NakodaX box | `brew install nakodax/tap/nkx-upload` or `scoop install nakodax/nkx-upload` |
 
 Package sources: [homebrew-tap](https://github.com/nakodax/homebrew-tap) and [scoop-bucket](https://github.com/nakodax/scoop-bucket).
