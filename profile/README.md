@@ -108,6 +108,29 @@ NakodaX lets software run on customer infrastructure while your proprietary logi
 
 4. **Change access anytime.** Revoke, limit, extend, or expire access after sharing.
 
+## Developer tools
+
+| Tool | What it does | Install |
+|---|---|---|
+| [nkx](https://github.com/nakodax/nkx-cli) | Command-line tool for NakodaX Source Protection: unlock protected code in CI and on customer infrastructure | `brew install nakodax/tap/nkx` |
+| [nkx-upload](https://github.com/nakodax/nkx-upload) | Encrypt and upload video and audio recordings up to 5 GB to NakodaX box | `brew install nakodax/tap/nkx-upload` or `scoop install nakodax/nkx-upload` |
+
+Package sources: [homebrew-tap](https://github.com/nakodax/homebrew-tap) and [scoop-bucket](https://github.com/nakodax/scoop-bucket).
+
+## Frequently asked questions
+
+### What is NakodaX?
+
+NakodaX is a platform that keeps documents, data pipelines and source code under your control after you share them. Content is encrypted, and each open checks that access is still allowed.
+
+### How is NakodaX different from password-protecting a file?
+
+A password protects a file only until someone shares the password or the file. NakodaX checks permission every time the content is opened, so you can revoke access after it has been sent, forwarded or downloaded.
+
+### Can NakodaX read my content?
+
+No. Documents are encrypted before upload, data stays in your environment, and source code stays protected inside your own software.
+
 ## Follow our work
 
 This organization is where we share NakodaX projects, product components, and technical work.
